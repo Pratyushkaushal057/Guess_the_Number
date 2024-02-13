@@ -10,5 +10,8 @@ CSS:
 CSS is involved in the Clean and Responsive layout.
 
 Javascript:
-Javascript is involved in the development of the functions and an effective working of the Game with the implementation of Events and EventsListener.
+Javascript is involved in the development of the functions and an effective working of the Game with the implementation of Events and EventsListener. 
+
+The user interacts with the Game and guesses the Secret Random Number and if the guess is Correct, the Score on the scoreboard saves and shows the Best Highscore and if the 
+user guesses the wrong Number the number of turns decreases and ultimately, the Game terminates after a Limited number of Turns.
 
