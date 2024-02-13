@@ -2,6 +2,7 @@
 Guess the Number is a Game that allows a user to guess the Number between a Range of 1 to 20 and beat the highscore of all time saves the current Best Highscore.
 
 This Game involves the use of HTML, CSS and Javascript.
+
 HTML:
 With the help of HTML, the Simple structure with a title, introductory text, input form, and a submit button is developed.
 
